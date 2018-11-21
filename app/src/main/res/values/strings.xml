@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Login_book_your_show</string>
+
+    <string name="hello_world"><font fgcolor="#212224">Already a user?</font>
+    <font fgcolor="#2050d5">  Login now</font>
+    </string>
+
+</resources>
